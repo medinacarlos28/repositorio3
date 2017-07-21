@@ -1,0 +1,41 @@
+body{
+  background-image: url(../img/fondo.jpg);
+  }
+
+.logo-img{
+  width: 30%;
+}
+
+.log img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+button{
+background: #333;
+}
+
+.vertical {
+border: red 2px groove;
+background: #331;
+  }
+.vertical a{
+color:#FFFFFF;
+border: red 1px solid;
+}
+.row{
+  width: 100%;
+  }
+
+  li{
+    list-style: none;
+  }
+  li a{
+    color:#FFFFFF;
+      }
+
+  p{
+    text-align: justify;
+        }
